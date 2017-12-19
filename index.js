@@ -20,3 +20,8 @@ function changeLeastFavoriteCustomer(){
   changeLeastFavoriteCustomer ='edi'
 
 }
+
+function attemptTwoFavoriteCustomers(){
+  let favoriteCustomer ;
+  
+}
